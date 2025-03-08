@@ -1,14 +1,27 @@
-# [SDF02] Challenge: CS Cat HTML Portfolio 😼
+# [SDF02] Challenge: CS Cat HTML Portfolio  
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0> 
 
-Congratulations on completing the course content! You've made incredible progress and gained valuable knowledge along the way. As you now start on your project, remember that this is your opportunity to showcase everything you've learned. 
+<title>CodeSpace Cat's Portfolio🍕</title>
+</head>
+<body>
 
-This challenge is all about building a **portfolio webpage** for CodeSpace Cat using structured **HTML** and your own **custom CSS**.  
+<nav>
+  <ul>    
+    <li><a href="#about">About me🔥</a></li>
+    <li><a href=#skills">Skills⚒</a></li>
+    <li><a href=#Portfolio">Portfolio📷</a></li>
+    <li><a href="#Contact">Contact🤙</a></li>
+  <ul>
+<nav>
 
-Approach it with confidence and creativity, you've got this! While you'll encounter challenges, remember that each obstacle is an opportunity to grow. Stay focused, believe in your abilities, and don't hesitate to ask for help from peers and your coach. You're almost at the finish line for this Module.
+<section id="about">
+    <h2>About Me 🐱</h2>
+    <img src="image-1.png" alt="illustration of CodeSpace Cat" width="300">
 
+    <p>Hello i'm <strong> CodeSpace Cat</strong>. I'm purr-ssionate about web development and design.Ive been pawing at the web industry for just one catnap (thats less than a day in human terms), and I adore crafting pawsitetively intuitive, whisker-twitching,and fur-tastic web experiences.Whoa, thats a lot of puns.🐾</p>
 
-## 📖 Challenge Brief  
-
-All project instructions, requirements, and submission details can be found in the **challenge brief**. Make sure to read it carefully before you start. 
-
-🔗 You will find the Challenge Brief in this repo in a markdown file called `CHALLENGE-BRIEF.MD`
